@@ -1,2 +1,2 @@
 # doctrine
-aorendendo doctrine
+aprendendo doctrine
